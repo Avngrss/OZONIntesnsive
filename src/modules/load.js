@@ -1,3 +1,4 @@
+//Функция загрузки данных с сервера
 import getData from "./getData";
 import renderGoods from "./renderGoods";
 
